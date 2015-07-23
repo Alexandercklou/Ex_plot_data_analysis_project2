@@ -29,10 +29,17 @@ README.MD: Background information of the assignment and the explain how the scri
 The script has 8 parts and each part works as below:
 
 **Part1:Download and unzip the files**
+
 **Part2 Read the training dataset, testing dataset and combine together**
+
 **Part3 Read the variable names of the dataset and put it to the dataset**
+
 **Part4 Combine X,Y and Subject Dataset together**
+
 **Part5 Extracts the measurements on the mean and standard deviation from the variables**
+
 **Part6 Uses descriptive activity names to name the activities in the data set**
+
 **Part7 Appropriately labels the data set with descriptive variable names.**
+
 **Part8 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.**
